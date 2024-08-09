@@ -8,6 +8,23 @@
  }
 
  .nav-color {
-     background-color: var(--bs-blue) !important;
+    background-color: var(--bs-blue) !important;
+    
  }
 
+ .margin-list{
+    margin-right: 1rem !important;
+ }
+
+ .alto{
+    height: 150%;
+    margin-right: 4px;
+ }
+
+ .caja{
+    height: 90%;
+ }
+
+ .valor{
+    height: 54%;
+ }
