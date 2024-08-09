@@ -1,4 +1,13 @@
+:root{
+    --bs-blue: #06758b;
+}
+
 .body {
-    background-color: blue;
+    /* background-color: blue; */
     font-family: 'Courier New', Courier, monospace;
  }
+
+ .nav-color {
+     background-color: var(--bs-blue) !important;
+ }
+
